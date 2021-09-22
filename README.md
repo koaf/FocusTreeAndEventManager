@@ -6,3 +6,5 @@
 ![image](https://user-images.githubusercontent.com/76429102/128592310-6002539a-a225-450f-bc07-d61a41b04e44.png)
 
 FocusTreeAndEventManagerの改造ですのでなんか言われたら速攻消します。
+作者Twitter：@f_ko_a
+作者Discord：koaf#4393
